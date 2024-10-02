@@ -97,7 +97,8 @@ The SSD MobileNet v2 model performs well on a variety of objects from the COCO d
 
 The following image demonstrates the output of the model, showing detected objects with bounding boxes and class labels:
 
-![Example Detection](example_output.png)
+<img width="1038" alt="image" src="https://github.com/user-attachments/assets/8371761d-9dab-43ac-87c8-41ead3783d5d">
+
 
 ## References
 
