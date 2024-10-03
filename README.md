@@ -90,6 +90,9 @@ pip install -r requirements.txt
 4. **Visualize Results**: Bounding boxes, class labels, and confidence scores are plotted on the image using Matplotlib or OpenCV for visualization.
 
 ## Results
+<img width="507" alt="image" src="https://github.com/user-attachments/assets/46f9798a-66d3-4e61-a235-a44feb4e8ddf">
+
+<img width="513" alt="image" src="https://github.com/user-attachments/assets/9a1de1c3-8a51-4371-b575-a570a312357d">
 
 The SSD MobileNet v2 model performs well on a variety of objects from the COCO dataset. It provides real-time object detection capabilities, making it suitable for applications such as video surveillance, autonomous driving, and robotics.
 
